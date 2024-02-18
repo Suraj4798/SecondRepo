@@ -1,0 +1,1 @@
+This is a new file created from git client and i'll push it to git server second repository
